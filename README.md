@@ -64,6 +64,6 @@
 <br>
 
 ## 스터디 자료
-- HTML, CSS: 자체 제작 ppt
+- HTML, CSS, JavaScript: 자체 제작 ppt
 - FE: 
 - BE: 
